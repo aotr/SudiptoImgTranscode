@@ -1,0 +1,44 @@
+{
+  "name": "sudipto-img-transcode",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A Node.js library for converting images to next-gen formats (PNG, WebP, AVIF) with optimized quality settings.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aotr/SudiptoImgTranscode.git"
+  },
+  "keywords": [
+    "image conversion",
+    "image processing",
+    "JPEG to PNG",
+    "JPEG to WebP",
+    "JPEG to AVIF",
+    "next-gen image formats",
+    "web performance",
+    "image optimization",
+    "sharp library",
+    "Node.js image processing",
+    "bulk image converter",
+    "modern image formats",
+    "lossless compression",
+    "lossy compression",
+    "image transcoding",
+    "frontend tools",
+    "web development tools",
+    "automated image conversion"
+  ],
+  "author": "Animesh Chakraborty",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aotr/SudiptoImgTranscode/issues"
+  },
+  "homepage": "https://github.com/aotr/SudiptoImgTranscode#readme",
+  "dependencies": {
+    "inquirer": "^9.2.16",
+    "sharp": "^0.33.2"
+  }
+}
